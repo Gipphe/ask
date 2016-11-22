@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "window": false,
+    "document": false,
+    "console": false,
+    "ask": false,
+    "answer": false
+  },
+  "nonew": true,
+  "unused": true,
+  "undef": true,
+  "browser": true,
+  "esnext": false
+}
